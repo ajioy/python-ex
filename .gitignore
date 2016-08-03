@@ -1,0 +1,10 @@
+#windows
+Thumbs.db
+Desktop.ini
+
+#Python
+*.py~
+*.xml
+*.txt
+*.jpg
+.idea/
