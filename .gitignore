@@ -7,4 +7,14 @@ Desktop.ini
 *.xml
 *.txt
 *.jpg
+*.jpeg
+*.gif
+*.png
+*.bmp
+*.csv
+*.xls
+*.xlsx
+*.txt
+*.swp
 .idea/
+zfortest/
