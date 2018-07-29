@@ -22,3 +22,6 @@ with open(filename) as f:
     lines = (line.strip() for line in f)
     for line in lines:
         print(line)
+
+for i in (0..10):
+    puts i

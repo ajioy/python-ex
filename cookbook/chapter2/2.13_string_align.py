@@ -26,7 +26,7 @@ print(res)
 res = format(x, '^10.2f')
 print(res)
 
-# 在老代码中经常看到%操作符来格式化文本，在新版中，应优先选择format()函数
+# 在老代码中经常看到%操作符来格式化文本，在新版中，应优先选择format()函数dsfadfddfadsfasdfasdfasdfasdfas
 # 更强大，更通用
 print('%-20s' % text)
 print('%20s' % text)

@@ -48,3 +48,10 @@ master_pat = re.compile('|'.join([PRINT, NAME]))
 for tok in generate_tokens(master_pat, 'printer'):
     print(tok)
 
+
+class Cat:
+    def __init__(self, a, b):
+        _a = a
+        _b = b
+
+c = Cat.new
